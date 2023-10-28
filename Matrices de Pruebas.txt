@@ -1,0 +1,31 @@
+atgcac
+acctgc
+cgttat
+atcggg
+atggat
+gtacat
+Es mutante? NO
+
+aagcac
+acttgc
+cgttaa
+atcgta
+taggat
+ccaaga
+Es mutante? SI
+
+atgcac
+accggc
+cgtgat
+atcggg
+atggat
+gtacat
+Es mutante? NO
+
+atgcac
+acctgc
+cgttgt
+atgggg
+atggat
+ggacat
+Es mutante? SI
